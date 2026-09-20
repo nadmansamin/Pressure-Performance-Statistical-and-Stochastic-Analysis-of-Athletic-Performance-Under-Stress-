@@ -1,13 +1,13 @@
 # Pressure-Performance-Statistical-and-Stochastic-Analysis-of-Athletic-Performance-Under-Stress-
 
-## 📌 Overview
+## Overview
 This repository contains the statistical and stochastic analysis of NBA free-throw performance under clutch pressure, covering NBA Regular Season and Playoff data from the **2006–07 to 2015–16** seasons[cite: 8]. Developed as part of the **Random Signals and Processes Lab (EEE 4408)** course at the **Islamic University of Technology (IUT)**, this project evaluates whether athletes experience a significant drop in success probability ("choking") during clutch situations[cite: 8].
 
 Each free throw is modeled as a **Bernoulli random variable**, allowing for the estimation of success probabilities, variance, Wilson confidence intervals, pooled two-proportion $z$-tests, paired $t$-tests, and a 20,000-resample player-level bootstrap analysis[cite: 8].
 
 ---
 
-## 🛠️ Key Methodologies & Findings
+##  Key Methodologies & Findings
 
 - **Bernoulli Modeling:** Free throws are evaluated as discrete Bernoulli random variables ($X = 1$ for a make, $X = 0$ for a miss) to compute $E[X]$, $Var(X)$, and 95% Wilson Confidence Intervals[cite: 8].
 - **Attempt-Weighted vs. Player-Level Analysis:** 
@@ -19,7 +19,7 @@ Each free throw is modeled as a **Bernoulli random variable**, allowing for the 
 
 ---
 
-## 📋 Statistical Summary
+##  Statistical Summary
 
 | Analysis | Weighting | Difference | $p$-value | Conclusion[cite: 8] |
 | :--- | :--- | :---: | :---: | :--- |
