@@ -30,21 +30,4 @@ Each free throw is modeled as a **Bernoulli random variable**, allowing for the 
 | **Career Bootstrap (20k)** | Equal players | $-1.26$ pp | `0.0088` | 95% CI lies entirely below zero [`-2.32`, `-0.20`][cite: 8]. |
 | **Playoff Paired $t$-test** | Equal player-season | $+1.17$ pp | `0.1918` | Not statistically significant; results are noisy[cite: 8]. |
 
----
 
-## 📁 Repository Structure & Deliverables
-
-- **`Pressure_Performance_Final_Report.pdf`:** Comprehensive final project report[cite: 8].
-- **`Pressure_Performance_Final.m`:** Complete MATLAB script executing data cleaning, $z$-tests, paired $t$-tests, bootstrap resampling, and data export[cite: 8].
-- **`Starter_FT_Stats_2006_2016_2.xlsx`:** Source dataset comprising 461 player-seasons across 200 unique NBA players[cite: 8].
-- **`final_outputs/`:** Automated folder containing output CSV summaries and 7 publication-ready analysis plots[cite: 8].
-
----
-
-## 👥 Contributors (Group WaveSync)
-
-- **Farhan Tanvir** (230021112)[cite: 8]
-- **Nadman Ibne Mamun** (230021114)[cite: 8]
-- **Goolam Muktadir Hameem** (230021144)[cite: 8]
-
-**Course Details:** Section A2, Department of EEE, Islamic University of Technology (IUT)[cite: 8]
